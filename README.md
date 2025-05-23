@@ -27,6 +27,7 @@ java-hello-maven/
 ---
 
 ## 🚀 Technologies Used
+## java app
 
 - Java 8+
 - Maven
